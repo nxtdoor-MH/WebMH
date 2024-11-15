@@ -96,7 +96,6 @@ opacity: 0.7;
  /*whichever you want*/
 opacity: 0.7;
 filter:(opacity=100);
-	font-size: 2vw;
 
 
 
@@ -253,7 +252,25 @@ h4 {
 
 
 
+/* width */
+::-webkit-scrollbar {
+  width: 7.5px;
+  background-color: black;
+ 
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+ 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 15px;
+ 
+}
 
 
 .image-container3  {background-image: url("hot.jpeg"); /* The image used - important! */
@@ -404,25 +421,6 @@ opacity: 0.7;
 	opacity:1
 }
 
-/* width */
-::-webkit-scrollbar {
-  width: 7.5px;
-  background-color: black;
- 
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px grey;
- 
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: white;
-  border-radius: 15px;
- 
-}
 
 
 	
