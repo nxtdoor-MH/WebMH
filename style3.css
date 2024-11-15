@@ -253,7 +253,7 @@ h4 {
 
 /* width */
 ::-webkit-scrollbar {
-  width: 7.5px;
+  width: 10px;
   background-color: black;
  
 }
@@ -267,7 +267,7 @@ h4 {
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: white;
-  border-radius: 15px;
+  border-radius: 25px;
  
 }
 
