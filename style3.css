@@ -447,5 +447,6 @@ opacity: 1.0;
 .hi, nav {
 
 	position: fixed;
+	transition: 0.4s;
 }
 	
