@@ -1,0 +1,73 @@
+<button style="padding: 20px 150px;"onclick>          <a href="#er0">Gaming</a></button> 
+          <button style="padding: 20px 150px;"onclick>        <a href="#er1">Zeichnen</a></button> 
+           <button style="padding: 20px 150px;"onclick>      <a href="#er2">Fotografie</a></button> 
+            <button style="padding: 20px 150px;"onclick>    <a href="#er3">Programmierung</a></button> 
+             <button style="padding: 20px 150px;"onclick>  <a href="#er4">Familie</a></button> 
+
+
+
+
+
+
+<a href="n2.html" target="_blank">
+
+<button style="height:50px;width:120px;fontsize:40px;" class="btn btn-outline-success" type="submit" > Login</button>
+
+
+
+<h1 style="text-align:center;font-size:90px;text-shadow: 5px 5px 5px grey;"> Galaxien der Interessen </h1>
+	
+	
+	 <button style="height:75px;width:120px;fontsize:40px;" class="btn btn-outline-success";type="submit" > Login</button>
+	 
+	 
+	 </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Overview
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+		
+		
+		<img src="596yyiek.png" alt="thur" style="width:1900px;height:999px" />
+
+ <li><hr class="dropdown-divider"></li>
+ 
+ 
+ 
+ 
+ <table style="color:white;"
+   
+	 <tr>
+   <th>Kompetenzen von Mason.H</th>
+   <th>Hobbies von Mason.H </th>
+   <th> Träume von Mason.H </th>
+ </tr>
+      <tr>
+	    <td><img src="dumbbell.png" alt="dumbbell" style="height:125px;width:125px"/</td>
+		<td><img src="cam2.png" alt="cam" style="height:125px;width:125px"</td>
+		<td><img src="fam.png" alt="fam" style="height:125px;width:125px"</td>
+		</tr>
+		<tr>
+		   <td>Hier werden die Kompetenzen von mir genauer erklärt.</td>
+		   <td>Hier zeige ich meine Hobbies und erzähl dazu paar dinge.</td>
+		   <td>Hier möchte ich euch meine Zunkunftspläne zeigen.</td>
+		   </tr>
+		</table>
+
+
+
+
+
+https://www.jschallenger.com/javascript-basics
+
+
+https://www.youtube.com/watch?v=Ty3hW8UPg0Q
+
+https://www.youtube.com/watch?v=p1QU3kLFPdg

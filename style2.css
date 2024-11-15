@@ -1,0 +1,40 @@
+body{
+    background-image:url('Spiralg.gif');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50.5%;
+  transition: width 1s;
+  transition-delay: 3s ;
+}
+
+.center:hover {
+
+width: 150px;
+  }
+  
+.center2 {
+display: block;
+  transform: translate(220%,0%);
+  width: 15%;
+
+  
+  }
+ h1 { 
+  
+  text-align:center;
+  font-size: 75px;
+  text-shadow: 6px 6px 6px blue;
+  
+ }
+ 
+p {
+	 
+	 font-size: 29px;
+ }

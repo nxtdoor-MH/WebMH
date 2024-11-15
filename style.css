@@ -1,0 +1,72 @@
+.center {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  transition: width 1s;
+  transition-delay: 3s ;
+}
+.center:hover {
+
+width: 150px;
+  }
+
+
+h1 {
+	
+	text-align:center;
+	color: black;
+	font-size: 45px;
+}
+
+p {
+	
+	text-align:center;
+	font-size: 25px;
+}
+
+.oa1 { 
+
+color: white;
+text-align: center;
+}
+.I2 { 
+
+color: white;
+text-align: center;
+font-size: 25px;
+}
+
+.oa1, .oa3, .oi1 , .oi3 , .oi5{ 
+
+color: white;
+text-align: center;
+}
+.I2 , .I4 , .I22 , .I44 , .I66 { 
+
+color: white;
+text-align: center;
+font-size: 25px;
+}
+
+.oa2, .oa4  {
+	
+	background-color: silver;
+	
+}
+
+
+body {
+	
+	background-color: #222
+	
+}
+.oi2 , .oi4 {
+	
+	background-color: beige;
+	text-align:center;
+}
+
+
+
+/* Stadt Web */

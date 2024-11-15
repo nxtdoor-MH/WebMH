@@ -1,0 +1,425 @@
+body {
+	
+	background-color: #333;
+}
+
+.image-container {
+  background-image: url("wthure.jpeg"); /* The image used - important! */
+  min-height:1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; /* Needed to position the cutout text in the middle of the image */
+  height: 1500px; /* Some height */
+}
+
+.text {
+  background-color: antiquewhite;
+  border-radius: 15px;
+  color: black;
+  font-size: 75px; /* Responsive font size */
+  font-weight: bold;
+  margin: 0 auto; /* Center the text container */
+  padding: 10px;
+  width: 50%;
+  text-align: center; /* Center text */
+  position: absolute; /* Position text */
+  top: 20%; /* Position text in the middle */
+  left: 50%; /* Position text in the middle */
+  transform: translate(-50%, -50%); /* Position text in the middle */
+  mix-blend-mode: lighten; /* This makes the cutout text possible */
+  font-size: 5vw;
+ 
+}
+.text2 {
+ 
+  color: antiquewhite;
+  font-size: 35px; /* Responsive font size */
+  font-weight: bold;
+  margin: 0 auto; /* Center the text container */
+  padding: 10px;
+  width: 50%;
+  text-align: center; /* Center text */
+  position: absolute; /* Position text */
+  top: 65%; /* Position text in the middle */
+  left: 25%; /* Position text in the middle */
+  
+  
+}
+
+
+
+.text22 {
+ 
+  color: white;
+  font-size: 50px; /* Responsive font size */
+  font-weight: bold;
+  margin: 0 auto; /* Center the text container */
+  padding: 10px;
+  width: 50%;
+  text-align: center; /* Center text */
+  position: absolute; /* Position text */
+  top: 80%; /* Position text in the middle */
+  left: 50%; /* Position text in the middle */
+  transform: translate(-50%, -50%); /* Position text in the middle */
+  
+}
+
+button {
+	mix-blend-mode: screen;
+	padding: 4px ;
+	color: black;
+	font-weight: bold;
+	
+}
+
+
+
+
+
+.K1 {
+	float: left;
+	font-size: 55px;
+transform: translate(0%,-15%);
+opacity: 0.7;
+	
+}
+.K7 {
+
+	transform: translate(0%, %);
+
+	
+}
+.Hi {
+ /*whichever you want*/
+opacity: 0.7;
+filter:(opacity=100);
+
+
+
+}
+
+
+}
+
+
+
+	
+	
+}
+
+.H12 {
+	
+	
+}
+
+.img00 {
+width: 50px;
+height: 45px;
+margin-top: 15px;
+opacity: 0.7;
+transition: width 1s;
+transition-delay: 2.5s;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.img00:hover{
+	
+	width: 150px;
+	opacity: 1;
+}	
+
+
+
+
+.whiteheaders {
+	
+	
+	background-color: antiquewhite;
+  color: black;
+	width: 100% ;
+	 mix-blend-mode: screen;
+	 margin-left: auto;
+	 margin-right: auto;
+	 margin-top: 75px;
+}
+
+table {
+	
+	
+	width: 99.9%;
+	font-size: 20px;
+	color: #333;
+	
+}
+
+.table1 {
+	
+	background-color: antiquewhite;
+	
+	
+}
+
+.image-container2 {
+	
+  background-image: url("prog.jpeg"); /* The image used - important! */
+  
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: cover;
+  background-size: cover;
+  position: relative; /* Needed to position the cutout text in the middle of the image */
+  height: 1000px; /* Some height */
+  transform:translate(0%,0%);
+  
+}
+
+.R2 {
+	
+	padding: 40px 40px;
+	background-color: antiquewhite;
+  
+	text-align:center;
+}
+
+
+.zz:link {
+	
+	background-color:antiquewhite;
+	padding: 14px 25 px;
+	display: inline-block;
+	text-align:center;
+	border-radius: 12px;
+	transform: translate(0%, );
+	float:right;
+}
+
+h4 {
+	
+	
+	color: transparent;
+}
+
+.oo1 {
+	transform: translate(0%,-55%);
+	padding: 40px 80px;
+	background-color: #333;
+}
+.XXY {
+	
+	
+	 background-color: #333;
+	padding: 120px 0px ;
+	
+	 
+	
+}
+.table2 {
+	text-align:center;
+	color: gray;
+	background-color: #333;
+	width: 100%;
+	font-size: 2vw;
+	font-size: 20px;
+	margin: 0;
+}
+
+.R3 {
+	font-size: 20px;
+	padding: 40px 40px;
+	background-color: antiquewhite;
+    margin-top: 150px;
+}
+.R4 {
+	font-size: 20px;
+	padding: 40px 40px;
+	background-color: antiquewhite;
+	   margin-top: 150px;
+}
+
+.comms {
+	
+	
+	padding:50px 40px ;
+}
+
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 7.5px;
+  background-color: black;
+ 
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+ 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 15px;
+ 
+}
+
+
+.image-container3  {background-image: url("hot.jpeg"); /* The image used - important! */
+  min-height:1500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; /* Needed to position the cutout text in the middle of the image */
+  height: 1500px; /* Some height */
+  
+}
+.R5 {
+	font-size: 20px;
+	padding: 40px 40px;
+	background-color: antiquewhite;
+	text-align:center;
+	
+}
+
+.XXY{
+	
+	
+	
+	transform: translate(0%,175%);
+}
+.R3 {
+	font-size: 20px;
+	padding: 40px 40px;
+	background-color: antiquewhite;
+	text-align:center
+}
+
+
+.R03 {
+	font-size: 20px;
+	padding: 40px 40px;
+	background-color: antiquewhite;
+	text-align:center;
+	transform: translate(0%,300%);
+}
+
+.k7 {
+	
+	
+	transform: translate(0%, 50%);
+	
+	float: right;
+}
+
+nav {
+	
+	
+	width: 100%;
+	word-spacing: 5px;
+}
+
+.navbar ul a {
+	
+	
+	padding: 10px 30px;
+}
+
+
+
+
+  nav {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+
+
+.table1 {
+	
+	
+	font-size: 2vw;
+}
+
+
+
+
+/* Hide the link that should open and close the topnav on small screens */
+
+
+li, ul {
+	
+	
+	display: inline
+}
+
+	
+
+
+
+.n4 {
+	
+	transform: translate(0%,15%);
+}
+/* Dropdown Style */
+
+.navbar-nav > li > .dropdown-menu {     background-color: #333;  }
+
+
+.navbar-nav > li > .dropdown-menu a{   color: white;  }
+
+.navbar-nav > li > .dropdown-menu {   color: white;  }
+
+.navbar-nav > li > .dropdown-menu a:hover{   background-color: grey; }
+
+/* Dropdown Style End */
+
+.HH2:hover {
+	
+background-color: grey;	
+border-radius: 10px;
+opacity: 1.0;
+	
+}
+.K1:hover {
+	
+
+border-radius: 10px;
+opacity: 1.0;
+	
+}
+
+
+.HH2 {
+	
+background-color: grey;	
+border-radius: 10px;
+opacity: 0.7;
+	
+}
+	
+
+
+
+.plswrk {
+	transform: translate(0%,30%);
+	color: white;
+	float:right;
+	opacity: 0.7;
+	
+}
+
+.plswrk:hover {
+	
+	opacity:1
+}
+
+
+
+	
+	
