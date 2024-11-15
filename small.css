@@ -18,7 +18,7 @@ li {
 
 .img00 {
 	
-	display: opacity: 0.3;
+	transform : translate(0%,-10%);
 }
 
 .table2 {
@@ -33,14 +33,5 @@ li {
 
 .HH5 {
 
-class: fixed-top;
-	width: 50px;
-height: 45px;
-margin-top: 15px;
-opacity: 0.7;
-transition: width 1s;
-transition-delay: 2.5s;
-margin-left: auto;
-margin-right: auto;
-	
+
 }
