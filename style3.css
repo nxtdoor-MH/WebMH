@@ -428,6 +428,20 @@ opacity: 0.7;
   }
 }
 
+.HH5 {
+	
+background-color: grey;	
+border-radius: 10px;
+opacity: 0.7;
+	
+}
 
+.HH5:hover {
+	
+background-color: grey;	
+border-radius: 10px;
+opacity: 1.0;
+	
+}
 	
 	
